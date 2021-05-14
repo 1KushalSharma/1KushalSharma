@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kushal Sharma
-- 👀 I’m interested in ... Android Development, Game Development and App development 
+- 👀 I’m interested in ... Android App Development and Game Development
 - 🌱 I’m currently learning ... Kotlin for Android and C# for game engine and development 
 - 📫 How to reach me ... email: 1rn18ec086.kushalsharma@gmail.com
 

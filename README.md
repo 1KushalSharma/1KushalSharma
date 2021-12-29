@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushal Sharma
-- 👀 I’m interested in ... Android App Development and Game Development
-- 🌱 I’m currently learning ... Kotlin for Android and C# for game engine and development 
+- 👀 I’m interested in ...  Development and more development
+- 🌱 I’m currently learning ... Java and spring for Backend. 
 - 📫 How to reach me ... email: 1rn18ec086.kushalsharma@gmail.com
 
 <!---
